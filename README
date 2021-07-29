@@ -3,6 +3,8 @@ TCP/IP protocols applications
 A series of university assigned projects:
 
 - Router: implementation of a router that uses the IP, ICMP and ARP protocols
+using a bit trie in order to get a O(log n) lookup of IP addresses, instead of
+O(n) liniar search
 
 - TCP/UDP client server application: an app that allows TCP clients to connect
 to a server and subscribe to various topics, and recieve messages related to
