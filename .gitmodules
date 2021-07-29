@@ -1,0 +1,12 @@
+[submodule "Router"]
+	path = Router
+	url = https://github.com/theooprea/Router
+[submodule "tcp-udp-client-server-application"]
+	path = tcp-udp-client-server-application
+	url = https://github.com/theooprea/tcp-udp-client-server-application
+[submodule "HTTP-client-book-store"]
+	path = HTTP-client-book-store
+	url = https://github.com/theooprea/HTTP-client-book-store
+[submodule "client-server-sharepoint-simulation"]
+	path = client-server-sharepoint-simulation
+	url = https://github.com/theooprea/client-server-sharepoint-simulation

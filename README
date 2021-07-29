@@ -1,0 +1,22 @@
+TCP/IP protocols applications
+
+A series of university assigned projects:
+
+- Router: implementation of a router that uses the IP, ICMP and ARP protocols
+
+- TCP/UDP client server application: an app that allows TCP clients to connect
+to a server and subscribe to various topics, and recieve messages related to
+those topics when sent by the UDP clients via the server. The application
+implement both TCP and UDP protocols
+
+- HTTP client book store: a client that connects to a REST API that serves and
+processes books in JSON format. The client can perform a series of HTTP
+requests to the server, GET, POST and DELETE, as well as authenticate and keep
+track of cookies and tokens. The application implements the HTTP protocol
+(making HTTP requests)
+
+- Client Server Sharepoint simulation: a client-server app that simulates a
+sharepoint, a file drive to which more people have access. The app uses the TCP
+protocol to simulate an HTTP client and server. The app handles both HTTP
+requests and HTTP handling
+
